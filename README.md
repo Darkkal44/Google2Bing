@@ -23,6 +23,8 @@ You need a userscript manager to run this. Install **Tampermonkey** for your bro
 *   [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 *   [Microsoft Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
+!! Make sure to have developer mode turned on in your extensions settings
+
 ### Install the Script
 Click the link below to install the script from GreasyFork:
 
