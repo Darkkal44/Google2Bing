@@ -1,6 +1,6 @@
 # Google to Bing Rewards Grinder 
 
-![Version](https://img.shields.io/badge/version-1.0-blue) ![Tampermonkey](https://img.shields.io/badge/extension-Tampermonkey-green)
+![Version](https://img.shields.io/badge/version-1.1-blue) ![Tampermonkey](https://img.shields.io/badge/extension-Tampermonkey-green)
 
 **Automatically earn Microsoft Rewards points while using Google.**
 
