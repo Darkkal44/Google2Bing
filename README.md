@@ -24,7 +24,7 @@ You need a userscript manager to run this. Install **Tampermonkey** for your bro
 *   [Microsoft Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 > [!Important]
-> Enable Developer mode in "Manage extensions" page of your browser
+> Enable Developer mode in "Manage extensions" page of your browser &
 > Right click tampermonkey icon in extension bar and choose manager extension and tick "Allow User Scripts"
 
 ### Install the Script
