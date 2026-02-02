@@ -15,6 +15,7 @@
 *   **Auto-Close:** The background tab cleans itself up automatically after the task is done.
 
 ## How to install?
+<a href='#'><img align="center" src="./Installation_and_Usage.mp4" alt="Video Tutorial"></a>
 
 ### Install Tampermonkey
 You need a userscript manager to run this. Install **Tampermonkey** for your browser:
